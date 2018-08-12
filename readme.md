@@ -5,7 +5,7 @@ The goal of 5k friday is to create a community around simple fitness. There's a 
 https://hackalong.devpost.com/
 
 # Video
-[![5k Friday Demo](https://i.imgur.com/1IWj74Q.png)](https://www.youtube.com/watch?v=NLYuKl6khZQ&feature=youtu.be) "5K Friday Demo")
+[![5k Friday Demo](https://i.imgur.com/1IWj74Q.png)](https://www.youtube.com/watch?v=NLYuKl6khZQ&feature=youtu.be "5K Friday Demo")
 
 
 ## Simplicity
