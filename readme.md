@@ -4,6 +4,10 @@ The goal of 5k friday is to create a community around simple fitness. There's a 
 
 https://hackalong.devpost.com/
 
+# Video
+[![5k Friday Demo](https://i.imgur.com/1IWj74Q.png)](https://www.youtube.com/watch?v=NLYuKl6khZQ&feature=youtu.be) "5K Friday Demo")
+
+
 ## Simplicity
 There are some wacky trends in the fitness industry. A simple internet search for advice on your fitness goals will yield a plethora of strange information. Some websites, youtube stars, and instagram models, want you to purchase their workouts or meal plans. Fitness does not need to be difficult or cost money! It can be as simple as running (or walking) a 5k every Friday. That's the goal of 5k friday. Social motivation for staying active. All that's required is completing a 5k every Friday and logging your results on 5kfriday.org. 
 
@@ -19,6 +23,3 @@ The project uses a bunch of really cool packages:
 - Bootstrap 
 - Lavacharts 
 - CKEditor for Laravel
-
-# Video Demo
-# Click to Watch
